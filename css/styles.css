@@ -338,7 +338,7 @@ Section "What are we doing?
     color: #2E2F42;
 }
 
-.appname,
+.appname
 {
 font-style: normal;
 font-weight: 400;
