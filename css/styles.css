@@ -1,3 +1,5 @@
+/* Common styles */
+
 :root {
     --primaryBrand: #4D5AE5;
     --pressedState: #404BBF;
@@ -338,8 +340,8 @@ Section "What are we doing?
     color: #2E2F42;
 }
 
-.appname
-{
+.appname{
+
 font-style: normal;
 font-weight: 400;
 font-size: 16px;
